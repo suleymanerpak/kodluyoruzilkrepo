@@ -3,7 +3,7 @@ Bu repo [Kodluyoruz] (https://www.kodluyoruz.org) Front-End eğitiminde oluştur
 
 İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![Repo Görseli](ilkrepogorsel.jpg)
+![Repo Görseli](/kodluyoruzilkrepo/ilkrepogorsel.JPG)
 
 # Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
